@@ -15,4 +15,4 @@ Run yarn install to install the necessary dependencies.
 
 Open the development-server by running yarn start.
 
-Browse to 'localhost' inside your favortie browser.
+Browse to 'localhost' inside your favortie browser .
