@@ -3,7 +3,7 @@ This app lets you track your expenses, so it's easier to save money.
 
 Steps to Development.
 
-Copy the project by running gh repo clone https://github.com/Ashish020202/Expense-Tracker.git in your terminal to clone the repository.
+Copy the project by running git clone https://github.com/Ashish020202/Expense-Tracker.git in your terminal to clone the repository.
 
 or downloading the zip-file and unzipping it to your preferred location.
 
