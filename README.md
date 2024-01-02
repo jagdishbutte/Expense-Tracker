@@ -1,7 +1,7 @@
 # Expense-Tracker
-This app lets you track your expenses, so it's easier to save money. 
+This app lets you track your expenses, so that it becomes easier to save money. 
 
-Steps to Development.
+Steps to Development
 
 Copy the project by running git clone https://github.com/Ashish020202/Expense-Tracker.git in your terminal to clone the repository.
 
